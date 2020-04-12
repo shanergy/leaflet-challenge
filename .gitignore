@@ -1,0 +1,6 @@
+# ignore these files:
+leaflet-challenge.code-workspace
+config.js
+
+# ignore these directories/folders:
+prev_unused_versions

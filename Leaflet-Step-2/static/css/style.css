@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px 10px;
+  font: 16px/10px Arial, Helvetica, sans-serif;
+  background: white;
+  opacity: 0.9;
+  /* background: rgba(255,255,255,0.8); */
+  box-shadow: 10px 10px 20px rgba(0, 0, 0 , 0.5);
+  border-radius: 12px;
+  line-height: 22px;
+}
+  
+/* .legend { */
+  /* background-color: “black”; */
+  /* line-height: 22px; */
+  /* color: #555; */
+  /* width: auto; */
+ /* } */
+
+.legend i {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-right: 6px;
+  opacity: 0.9;
+ }
